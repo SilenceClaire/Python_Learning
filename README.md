@@ -1,9 +1,9 @@
-# -
-课程作业
+###课程作业 
+
 这部分是有关机器学习线性回归闭式解和随机梯度下降两个算法的作业。
 其中参考了其他的开源算法代码，线性回归使用的是LIBSVM Data中的Housing数据，包含506个样本，每个样本有13个属性。
 链接如下：https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/regression.html#housing
-# -
+###步骤
 ###### 线性回归的闭式解相关实验过程：
 ###### 1.读取实验数据，使用sklearn库的load_svmlight_file函数读取数据。
 ###### 2.将数据集切分为训练集和验证集，本次实验不切分测试集。使用train_test_split函数切分数据集。
